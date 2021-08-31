@@ -1,0 +1,87 @@
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.exe
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.deps.json
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.runtimeconfig.json
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.runtimeconfig.dev.json
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.dll
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.pdb
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.csprojAssemblyReference.cache
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Properties.Resources.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.csproj.GenerateResource.cache
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.AssemblyInfoInputs.cache
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.AssemblyInfo.cs
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.dll
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.pdb
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.genruntimeconfig.cache
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RealMenu.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.PaintStandTree.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Koh.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Kantor.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Triangle.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Carpet.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs..resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForTree.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForKoh.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForCarpet.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForTriangle.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForKantor.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Unusual.resources
+C:\Users\pasha\source\repos\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Fractal.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.exe
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.deps.json
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.runtimeconfig.json
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.runtimeconfig.dev.json
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.dll
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.csprojAssemblyReference.cache
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs..resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Carpet.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Fractal.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Kantor.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Koh.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.PaintStandTree.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Properties.Resources.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RealMenu.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForCarpet.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForKantor.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForKoh.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForTree.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForTriangle.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Triangle.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Unusual.resources
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.csproj.GenerateResource.cache
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.AssemblyInfoInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.AssemblyInfo.cs
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.dll
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.genruntimeconfig.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.exe
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.deps.json
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.runtimeconfig.json
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.runtimeconfig.dev.json
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.dll
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\bin\Debug\netcoreapp3.1\VisualDrugs.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.csprojAssemblyReference.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs..resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Carpet.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Fractal.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Kantor.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Koh.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.PaintStandTree.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Properties.Resources.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RealMenu.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForCarpet.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForKantor.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForKoh.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForTree.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.RecursForTriangle.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Triangle.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.Unusual.resources
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.csproj.GenerateResource.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.AssemblyInfoInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.AssemblyInfo.cs
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.dll
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\VisualDrugs\VisualDrugs\obj\Debug\netcoreapp3.1\VisualDrugs.genruntimeconfig.cache
